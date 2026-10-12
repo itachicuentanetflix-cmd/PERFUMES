@@ -1,0 +1,19 @@
+{
+  "name": "perfumes-jean",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "node --test tests/alloc.test.mjs"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "jose": "^5.9.6",
+    "next": "14.2.15",
+    "pg": "^8.13.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
